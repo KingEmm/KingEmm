@@ -51,7 +51,7 @@ Building modern backend applications with **ASP.NET Core** while deepening my un
 
 <tr>
 
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 
 ## ☁️ Cloud Journey
 
@@ -64,7 +64,7 @@ Building modern backend applications with **ASP.NET Core** while deepening my un
 - Microsoft Entra ID
 - Azure Security
 
-</td>
+</td> -->
 
 <td width="50%" valign="top">
 
@@ -96,6 +96,7 @@ These are technologies I plan to explore after strengthening my backend and clou
 - CI/CD
 - Next.js
 - Tailwind CSS
+- ASIO::BOOST
 
 </td>
 
