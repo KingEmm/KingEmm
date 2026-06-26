@@ -368,7 +368,87 @@ I'm continuously building software, exploring new technologies, and refining my 
 
 ---
 
+# 🏆 Certifications
 
+<div align="center">
+
+*"Continuous learning is one of my strongest engineering habits."*
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Frontend Development
+
+**Certificate**
+
+YOUR_FRONTEND_CERTIFICATION
+
+**Issued By**
+
+YOUR_PROVIDER
+
+**Credential ID**
+
+YOUR_CREDENTIAL_ID
+
+<br>
+
+<a href="YOUR_CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/📜_View_Certificate-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Backend Development
+
+**Certificate**
+
+YOUR_BACKEND_CERTIFICATION
+
+**Issued By**
+
+YOUR_PROVIDER
+
+**Credential ID**
+
+YOUR_CREDENTIAL_ID
+
+<br>
+
+<a href="YOUR_CERTIFICATE_URL">
+<img src="https://img.shields.io/badge/📜_View_Certificate-0A66C2?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🎯 Learning Roadmap
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator (AZ-104)
+- Microsoft Certified: Azure Security Engineer (AZ-500)
+- ASP.NET Core
+- Software Architecture
+
+<div align="center">
+
+> *"Learning is a continuous investment, not a finish line."*
+
+</div>
 
 ---
 
@@ -376,11 +456,127 @@ I'm continuously building software, exploring new technologies, and refining my 
 
 ---
 
+# 📊 GitHub Analytics
 
+<div align="center">
+
+*"Code tells the story. Statistics simply summarize the journey."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Morgan176&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morgan176&layout=compact&theme=github_dark&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+width="70%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Morgan176&theme=github-dark&hide_border=true"
+/>
+
+</div>
 
 ---
 
+## 📈 Contribution Philosophy
 
+<div align="center">
+
+Quality matters more than quantity.
+
+I believe meaningful commits, thoughtful architecture and continuous learning
+have greater long-term value than simply increasing contribution counts.
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Building consistently.
+<br>
+📚 Learning continuously.
+<br>
+🚀 Improving every day.
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+*"I'm always interested in discussing software engineering, backend development, computer science, and new opportunities to build meaningful software."*
+
+<br><br>
+
+<a href="https://github.com/Morgan176">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_WEBSITE.com">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Open To
+
+💼 Software Engineering Opportunities
+
+🌐 Open Source Collaboration
+
+🤝 Technical Discussions
+
+📚 Continuous Learning
+
+🚀 Building Interesting Projects
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+If you enjoyed exploring my work, feel free to connect, collaborate, or check out my repositories.
+
+### BUILDING SOFTWARE.
+
+*"From Browser → Backend • From Algorithms → Systems"*
+
+⭐ **Happy Coding!**
+
+</div>
 
 ---
 

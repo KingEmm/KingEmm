@@ -19,7 +19,7 @@ Currently, I'm expanding my expertise in **ASP.NET Core**, **software architectu
 | | |
 |:---|:---|
 | 💻 **Role** | Software Engineer |
-| 🌍 **Location** | Netherlands |
+| 🌍 **Location** | Nigeria |
 | 🎯 **Focus** | Full-Stack Development • Backend Engineering • Systems Programming |
 | 📚 **Currently Learning** | ASP.NET Core • Software Architecture • System Design |
 | 🧠 **Core Interests** | Algorithms • Data Structures • Distributed Systems • Clean Architecture |
