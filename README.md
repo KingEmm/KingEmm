@@ -70,7 +70,7 @@ Currently, I'm expanding my expertise in **ASP.NET Core**, **software architectu
 | | |
 |:---|:---|
 | 💻 **Role** | Software Engineer |
-| 🌍 **Location** | Netherlands |
+| 🌍 **Location** | Nigeria |
 | 🎯 **Focus** | Full-Stack Development • Backend Engineering • Systems Programming |
 | 📚 **Currently Learning** | ASP.NET Core • Software Architecture • System Design |
 | 🧠 **Core Interests** | Algorithms • Data Structures • Distributed Systems • Clean Architecture |
@@ -388,11 +388,11 @@ I'm continuously building software, exploring new technologies, and refining my 
 
 **Certificate**
 
-YOUR_FRONTEND_CERTIFICATION
+WEB AND COMPUTER PROGRAMMING
 
 **Issued By**
 
-YOUR_PROVIDER
+BYU Idaho
 
 **Credential ID**
 
@@ -412,11 +412,11 @@ YOUR_CREDENTIAL_ID
 
 **Certificate**
 
-YOUR_BACKEND_CERTIFICATION
+WEBDEVELOPMENT
 
 **Issued By**
 
-YOUR_PROVIDER
+BUY IDAHO
 
 **Credential ID**
 
@@ -438,10 +438,16 @@ YOUR_CREDENTIAL_ID
 
 ## 🎯 Learning Roadmap
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure Administrator (AZ-104)
-- Microsoft Certified: Azure Security Engineer (AZ-500)
-- ASP.NET Core
+<!-- - Microsoft Certified: Azure Fundamentals (AZ-900) -->
+<!-- - Microsoft Certified: Azure Administrator (AZ-104) -->
+<!-- - Microsoft Certified: Azure Security Engineer (AZ-500) -->
+- Introduction to programming (with Python)
+- Programming with Function (with Python)
+- Programming with Classes (with C-Sharp)
+- Programming with Datastructures (with C-Sharp)
+- Software Testing (With JS and Python for scripting and automation)
+- Applied Programming - (currently building an EDR (Anti Virus) system with C++)
+- ASP.NET Core (Future)
 - Software Architecture
 
 <div align="center">
