@@ -1,18 +1,3 @@
-<!-- ============================================================= -->
-<!--                 MORGAN176 GITHUB PROFILE                      -->
-<!-- ============================================================= -->
-<!--
-    This file is the template for the final README.md.
-
-    Do NOT edit README.md directly.
-
-    Edit this file and the files inside /content,
-    then run:
-
-        python build.py
-
--->
-
 <div align="center">
 
 <img src="./assets/banner/terminal.svg" width="100%" alt="Terminal Banner"/>
@@ -133,12 +118,14 @@ Currently, I'm expanding my expertise in **ASP.NET Core**, **Software architectu
 | Node.js | ✅ |
 | Express.js | ✅ |
 | Django | ✅ |
+| ASP.NET | ✅ |
+| Blazor | ✅ |
 | REST APIs | ✅ |
 | Authentication | ✅ |
 | CRUD Applications | ✅ |
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet" />
 </p>
 
 ---
