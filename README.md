@@ -29,17 +29,17 @@ Designing scalable software with modern web technologies while building strong c
 
 <br>
 
-<a href="https://github.com/Morgan176">
+<a href="https://github.com/kingemm">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/emmanuel-kingsley-okafor">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<!-- <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://YOUR-PORTFOLIO.COM">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
@@ -61,7 +61,7 @@ I'm a **Software Engineer** focused on building modern applications with clean a
 
 My interests span **frontend development**, **backend engineering**, **systems programming**, and **software design**. I enjoy solving challenging problems, writing maintainable code, and understanding how software works from the browser all the way down to the operating system.
 
-Currently, I'm expanding my expertise in **ASP.NET Core**, **software architecture**, **system design**, and cloud technologies while continuing to strengthen my foundation in data structures and algorithms.
+Currently, I'm expanding my expertise in **ASP.NET Core**, **Software architecture**, **Systems Programming in C/C++**, and **Endpoint Security** while continuing to strengthen my foundation in data structures and algorithms.
 
 ---
 
@@ -71,8 +71,8 @@ Currently, I'm expanding my expertise in **ASP.NET Core**, **software architectu
 |:---|:---|
 | 💻 **Role** | Software Engineer |
 | 🌍 **Location** | Nigeria |
-| 🎯 **Focus** | Full-Stack Development • Backend Engineering • Systems Programming |
-| 📚 **Currently Learning** | ASP.NET Core • Software Architecture • System Design |
+| 🎯 **Focus** | Endpoint Security • Backend Engineering • Systems Programming in C/C++ |
+| 📚 **Currently Learning** | Windows Kernel-Mode Programming • Software Architecture • System Design |
 | 🧠 **Core Interests** | Algorithms • Data Structures • Distributed Systems • Clean Architecture |
 | 🌱 **Philosophy** | Build software that is reliable, maintainable, and scalable. |
 
@@ -260,11 +260,11 @@ Scalable web application featuring REST APIs, authentication and database integr
 
 <br>
 
-<a href="https://github.com/Morgan176/REPLACE_FULLSTACK_PROJECT">
+<a href="https://github.com/KingEmm/CSE341_USER_Project">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge" />
 </a>
 
-<a href="https://YOUR-LIVE-DEMO.com">
+<a href="https://cse341-user-project.onrender.com/api-docs/">
 <img src="https://img.shields.io/badge/🌍_Live_Demo-8B5CF6?style=for-the-badge" />
 </a>
 
@@ -282,11 +282,11 @@ Secure authentication service implementing JWT authentication and role-based aut
 
 **Tech Stack**
 
-`Node.js` `Express.js` `JWT` `SQL`
+`Node.js` `Express.js` `JWT` `noSQL(MongoDB)`
 
 <br>
 
-<a href="https://github.com/Morgan176/REPLACE_AUTH_PROJECT">
+<a href="https://github.com/willlyca31-lab/ShopEasy-API">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge" />
 </a>
 
@@ -294,18 +294,22 @@ Secure authentication service implementing JWT authentication and role-based aut
 
 <td width="50%" valign="top">
 
-## 🐍 Django Project
+## 🐍 DotNet Project
 
-Backend application built with Django following clean architecture and REST principles.
+Backend application built with Dotnet following clean architecture and REST principles.
 
 **Tech Stack**
 
-`Python` `Django` `SQL`
+`C#` `Blazor` `SQL`
 
 <br>
 
-<a href="https://github.com/Morgan176/REPLACE_DJANGO_PROJECT">
+<a href="https://github.com/Benjaminsoosay/CSE325-team1-project">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge" />
+</a>
+
+<a href="https://communitylibrary-rl1v.onrender.com/">
+<img src="https://img.shields.io/badge/🌍_Live_Demo-8B5CF6?style=for-the-badge" />
 </a>
 
 </td>
@@ -326,7 +330,7 @@ Collection of classic algorithms and data structures implemented across multiple
 
 <br>
 
-<a href="https://github.com/Morgan176/REPLACE_DSA_PROJECT">
+<a href="https://github.com/KingEmm/cse212-hw">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge" />
 </a>
 
@@ -336,7 +340,9 @@ Collection of classic algorithms and data structures implemented across multiple
 
 ## 💻 Systems Programming
 
+Work in Progress
 Low-level programming projects exploring memory management, performance and operating system concepts.
+Building an EDR monitor
 
 **Language**
 
@@ -344,7 +350,7 @@ Low-level programming projects exploring memory management, performance and oper
 
 <br>
 
-<a href="https://github.com/Morgan176/REPLACE_CPP_PROJECT">
+<a href="https://github.com/kingemm/kig">
 <img src="https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge" />
 </a>
 
@@ -532,21 +538,21 @@ have greater long-term value than simply increasing contribution counts.
 
 <br><br>
 
-<a href="https://github.com/Morgan176">
+<a href="https://github.com/kingemm">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/emmanuel-kingsley-okafor">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<!-- <a href="mailto:YOUR_EMAIL@example.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO_WEBSITE.com">
 <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
-</a>
+</a> -->
 
 </div>
 
